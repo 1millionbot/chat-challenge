@@ -12,4 +12,6 @@ Your task is simple, you have to **create a chat window** for our chatbots. You 
 To accomplish it you must follow the following points:
 
 - You can use vanilla JS or any framework, bonus points if it is [Angular](https://angular.io/).
-- The messages from the chatbot must be different from the user ones, positioning them right and left its the easiest way to fullfill this one 😉
+- The messages from the chatbot must be different from the user ones, positioning them right and left its the easiest way to fullfill this one 😉.
+- The image and the name of the chatbot must appear so that the user knows at all times who they are talking to.
+- The chat window must have a [drop-down menu](./examples/drop-down-menu.png) to select options such as forgetting user data, changing the language or accessing the privacy policy.
