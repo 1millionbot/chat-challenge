@@ -32,4 +32,5 @@ To accomplish it you must follow the following points:
 
 - Dockerize the app.
 - Pre chatbot call to action display.
+   ![call to action](./examples/call-to-action.jpg) 
 - Write realistic unit/end-to-end tests.
